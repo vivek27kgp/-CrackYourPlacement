@@ -1,2 +1,2 @@
 # -CrackYourPlacement
-This repository is for my dsa challenge preogress
+This repository is for my dsa challenge progress
